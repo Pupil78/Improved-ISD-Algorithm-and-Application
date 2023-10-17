@@ -1,6 +1,6 @@
 """
   Our script is obtained by adding the NN algorithm to Esser-Zweydinger’s script。
-  ”bjmm_depth_2_qc_complexity“ is the estimator of Esser-Zweydinger’s algorithm.
+  "bjmm_depth_2_qc_complexity" is the estimator of Esser-Zweydinger’s algorithm.
   Our estimation program is defined as "new_bjmm_depth_2_qc_complexity".
   Esser-Zweydinger’s algorithm is can be obtained in the reference [26], and their script is available at
   https://github.com/FloydZ/Improving-ISD-in-Theory-and-Practice.
